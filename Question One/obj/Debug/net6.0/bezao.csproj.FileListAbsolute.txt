@@ -1,0 +1,30 @@
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\bezao.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\bezao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\bezao.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\bezao.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\bezao.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\bin\Debug\net6.0\bezao.exe
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\bin\Debug\net6.0\bezao.deps.json
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\bin\Debug\net6.0\bezao.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\bin\Debug\net6.0\bezao.dll
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\bin\Debug\net6.0\bezao.pdb
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\bezao.dll
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\refint\bezao.dll
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\bezao.pdb
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\bezao.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\BEZAO TEST\bezao\obj\Debug\net6.0\ref\bezao.dll
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\bin\Debug\net6.0\bezao.exe
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\bin\Debug\net6.0\bezao.deps.json
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\bin\Debug\net6.0\bezao.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\bin\Debug\net6.0\bezao.dll
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\bin\Debug\net6.0\bezao.pdb
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\bezao.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\bezao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\bezao.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\bezao.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\bezao.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\bezao.dll
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\refint\bezao.dll
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\bezao.pdb
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\bezao.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\BEZAO TEST\Question One\obj\Debug\net6.0\ref\bezao.dll
