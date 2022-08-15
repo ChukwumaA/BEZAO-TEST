@@ -4,8 +4,8 @@
     {
         return ch;
     }
-    char d = char.IsUpper(ch) ? 'A' : 'a';
-    return (char)((((ch + key) - d) % 26) + d);
+    char value = char.IsUpper(ch) ? 'A' : 'a';
+    return (char)((((ch + key) - value) % 26) + value);
 }
 
 static string Encrypt(string input, int key)
@@ -35,12 +35,13 @@ static string Decrypt(string input, int key)
     Console.WriteLine("Encrypted Data ");
     string cipherText = Encrypt(UserString, key);
     Console.WriteLine(cipherText);
-    Console.Write("\n");
+    Console.WriteLine("\n");
+
 
     Console.WriteLine("Decrypted Data: ");
-    string t = Decrypt(cipherText, key);
-    Console.WriteLine(t);
-    
+    string text = Decrypt(cipherText, key);
+    Console.WriteLine(text);
+    Console.WriteLine("\n");
 
     Console.ReadKey();
 

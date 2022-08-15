@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chikosolu Akunyili\\BEZAO TEST\\One\\One.csproj",
-      "projectName": "One",
-      "projectPath": "C:\\Users\\Chikosolu Akunyili\\BEZAO TEST\\One\\One.csproj",
+      "projectUniqueName": "C:\\Users\\Chikosolu Akunyili\\BEZAO TEST\\Question Two\\QuestionTwo.csproj",
+      "projectName": "QuestionTwo",
+      "projectPath": "C:\\Users\\Chikosolu Akunyili\\BEZAO TEST\\Question Two\\QuestionTwo.csproj",
       "packagesPath": "C:\\Users\\Chikosolu Akunyili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chikosolu Akunyili\\BEZAO TEST\\One\\obj\\",
+      "outputPath": "C:\\Users\\Chikosolu Akunyili\\BEZAO TEST\\Question Two\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chikosolu Akunyili\\AppData\\Roaming\\NuGet\\NuGet.Config",
