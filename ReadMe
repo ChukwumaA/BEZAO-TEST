@@ -1,5 +1,4 @@
-``
-This is the repository for bezao technical interview.
+##This is the repository for bezao technical interview.
 
 
 
@@ -12,4 +11,4 @@ Then Build
 Then Run
 - dotnet run
 
-``
+
